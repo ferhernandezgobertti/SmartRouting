@@ -1,0 +1,10 @@
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Combinatorics = "861a8166-3701-5b0c-9a16-15d98fcdc6aa"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+GLPK = "60bf3e95-4087-53dc-ae20-288a0d20c6a6"
+IOCapture = "b5f81e59-6552-4d32-b1f0-c071b021bf89"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+LazySets = "b4f0291d-fe17-52bc-9479-3d1a343d9043"
+NamedArrays = "86f7a689-2022-50b4-a561-43c23ac3c673"

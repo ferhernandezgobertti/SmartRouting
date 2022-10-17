@@ -1,0 +1,25 @@
+{
+	"projectFiles": [
+		"models/min_inertia_constrained_approach.mzn",
+                 "models/sat_inertia_constrained_approach.mzn",
+		"models/general_approach.mzc.mzn",
+		"data/stop_clust_1.dzn",
+		"data/stop_clust_2.dzn",
+		"data/stop_clust_3.dzn",
+		"data/stop_clust_4.dzn",
+		"data/stop_clust_5.dzn",
+		"data/stop_clust_6.dzn",
+		"data/stop_clust_7.dzn",
+		"data/stop_clust_8.dzn",
+		"data/stop_clust_9.dzn",
+                 "data/stop_clust_10.dzn"
+	],
+	"openFiles": [
+		"models/min_inertia_constrained_approach.mzn",
+                 "models/sat_inertia_constrained_approach.mzn"
+	],
+	"openTab": 0,
+	"version": 106,
+	"selectedBuiltinConfigId": "org.gecode.gecode",
+	"selectedBuiltinConfigVersion": "6.3.0"
+}
